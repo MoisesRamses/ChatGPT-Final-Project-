@@ -1,5 +1,5 @@
-# chatgpt-clone
-Build Yourown ChatGPT with OpenAI API &amp; Gradio
+# chatgpt-project
+Building a ChatGPT Project with OpenAI API &amp; Gradio
 
 ### Instructions:
 
@@ -9,9 +9,6 @@ Build Yourown ChatGPT with OpenAI API &amp; Gradio
 4. Install the required libraries `pip install -r requirements.txt` 
 5. run `python app.py` 
 
-### Complete Tutorial: https://youtu.be/n5nn3mQxrE8
-
-### Demo
-
-https://user-images.githubusercontent.com/5347322/207718196-c5fccff3-1531-4402-99db-fe0fc6bf0e5a.mp4
+## short project demo
+https://user-images.githubusercontent.com/73865736/229234444-cc0205c4-9a8f-43cd-8405-a0951f703bbe.mp4
 
